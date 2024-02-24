@@ -1,0 +1,9 @@
+form {
+    background-color: aquamarine;
+    padding: 10px;
+}
+#txt:hover {
+    background-color: aquamarine;
+    border-color: brown;
+    
+}
